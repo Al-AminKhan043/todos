@@ -30,5 +30,4 @@ The user interacts with the app through the browser’s prompt dialogs. The curr
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/YourUsername/Todo-List-.git
-   cd Todo-List-App
+  https://github.com/Al-AminKhan043/todos.git
